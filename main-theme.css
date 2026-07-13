@@ -19,8 +19,8 @@ body {
     backdrop-filter: blur(var(--blur-bg)) brightness(var(--brightness-bg));
 }
 
-.visual-refresh,
-.visual-refresh {
+.visual-refresh .theme-dark,
+.visual-refresh.theme-dark {
     --background-base-lowest: transparent;
     --bg-base-tertiary: transparent;
     --background-tertiary: transparent;
